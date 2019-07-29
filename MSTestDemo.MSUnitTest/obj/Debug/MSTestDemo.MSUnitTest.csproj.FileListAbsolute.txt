@@ -1,0 +1,7 @@
+D:\Project\Project\MSTestDemo\MSTestDemo.MSUnitTest\bin\Debug\MSTestDemo.MSUnitTest.dll
+D:\Project\Project\MSTestDemo\MSTestDemo.MSUnitTest\bin\Debug\MSTestDemo.MSUnitTest.pdb
+D:\Project\Project\MSTestDemo\MSTestDemo.MSUnitTest\bin\Debug\MSTestDemo.exe
+D:\Project\Project\MSTestDemo\MSTestDemo.MSUnitTest\bin\Debug\MSTestDemo.pdb
+D:\Project\Project\MSTestDemo\MSTestDemo.MSUnitTest\obj\Debug\MSTestDemo.MSUnitTest.csprojResolveAssemblyReference.cache
+D:\Project\Project\MSTestDemo\MSTestDemo.MSUnitTest\obj\Debug\MSTestDemo.MSUnitTest.dll
+D:\Project\Project\MSTestDemo\MSTestDemo.MSUnitTest\obj\Debug\MSTestDemo.MSUnitTest.pdb

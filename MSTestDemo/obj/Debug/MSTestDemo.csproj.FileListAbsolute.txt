@@ -1,0 +1,6 @@
+D:\Project\Project\MSTestDemo\MSTestDemo\bin\Debug\MSTestDemo.exe.config
+D:\Project\Project\MSTestDemo\MSTestDemo\bin\Debug\MSTestDemo.exe
+D:\Project\Project\MSTestDemo\MSTestDemo\bin\Debug\MSTestDemo.pdb
+D:\Project\Project\MSTestDemo\MSTestDemo\obj\Debug\MSTestDemo.csprojResolveAssemblyReference.cache
+D:\Project\Project\MSTestDemo\MSTestDemo\obj\Debug\MSTestDemo.exe
+D:\Project\Project\MSTestDemo\MSTestDemo\obj\Debug\MSTestDemo.pdb
